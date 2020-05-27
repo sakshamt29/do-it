@@ -1,0 +1,18 @@
+.color {
+  color: black;
+
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: medium;
+}
+.f {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #e3170a;
+  font-size: large;
+}
+body {
+  background-color: #ffffff;
+}
+.far fa-trash-alt {
+  background-color: white;
+  font-size: 1px;
+}
